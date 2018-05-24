@@ -5,6 +5,12 @@ The example uses `click` for Command Line Interface and `click-plugins` for addi
 To see how it works, clone this repository
 `git clone https://github.com/swap-nil7/External-Click-Plugin.git`
 
+Install the dependencies,
+
+`pip install click`
+
+`pip install click-plugins`
+
 Then install main plugin,
 `pip install main/`
 
